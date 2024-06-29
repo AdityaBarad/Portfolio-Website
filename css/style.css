@@ -973,7 +973,7 @@ CSS
 .select-item button:hover { --eerie-black-2: hsl(240, 2%, 20%); }
 .project-list {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Adjust the number 3 to however many items per row you want */
+  grid-template-columns: repeat(2, 1fr); /* Adjust the number 3 to however many items per row you want */
   gap: 30px;
   margin-bottom: 10px;
 }
